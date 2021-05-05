@@ -131,8 +131,27 @@ from django.urls import path
 
 `python manage.py runserver`
 
-- This code will be run our project on the [local host](http://127.0.0.1:8000/) and then we will see the Interface.  
+- This code will be run our project on the [local host](http://127.0.0.1:8000/) and then we will see the Interface. 
 
+<a href="https://ibb.co/0GFS1Z5"><img src="https://i.ibb.co/d5LqX6Z/Ekran-G-r-nt-s-503.png" alt="Ekran-G-r-nt-s-503" border="0"></a>
+ 
+- Username: superadmin
+- Password: ımsuperadmin
+
+- Then we can reach the main page of the interface
+
+<a href="https://ibb.co/SyJMJ3H"><img src="https://i.ibb.co/9gG1GrB/Ekran-G-r-nt-s-504.png" alt="Ekran-G-r-nt-s-504" border="0"></a>
+
+- We have a user models in here for ex. testuser and superadmin, also you can add and edit the user 
+
+<a href="https://ibb.co/rxpk6bM"><img src="https://i.ibb.co/WkznyDF/Ekran-G-r-nt-s-505.png" alt="Ekran-G-r-nt-s-505" border="0"></a>
+
+- And also we have the products area. You can manage products and add the new products
+
+<a href="https://ibb.co/YWR3bKC"><img src="https://i.ibb.co/z5nrNLM/Ekran-G-r-nt-s-506.png" alt="Ekran-G-r-nt-s-506" border="0"></a>
+
+
+### That's all folks
 <hr></hr>
 <h1 style="color:lightblue">In A Nutshell</h1>
 
